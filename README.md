@@ -5,8 +5,9 @@
 - Kali Linux
 - setoolkit
 
-### Configurando o Phishing no Kali Linux
+### Passo a passo para o Phishing no Kali Linux
 
+- Abrir terminal e digitar:
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
 - Tipo de ataque: ``` Social-Engineering Attacks ```
@@ -16,6 +17,6 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutados
+### Resultados
 
 ![Alt text](./passwd.png "Optional title")
