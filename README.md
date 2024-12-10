@@ -20,3 +20,4 @@
 ### Resultados
 
 ![Alt text](./passwd.png "Optional title")
+![Problem](https://github.com/user-attachments/assets/674b64d8-6714-4bcc-848f-1343d706c97f)
